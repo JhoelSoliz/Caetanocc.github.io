@@ -94,6 +94,11 @@ function HUGO() {
     linkGit.innerHTML = '<a href="https://github.com/HugoAvsz">https://github.com/HugoAvsz</a>';
 }
 
+function JHOEL_RAYAN(){
+    linkGit = document.querySelector("#JHOEL_RAYAN")
+    linkGit.innerText = "https://github.com/JhoelSoliz"
+}
+
 function VINICIUS_TAVARES() {
     linkGit = document.querySelector("#VINICIUS_TAVARES")
     linkGit.innerHTML = '<a href="https://tavaresvinicius.github.io/perfil/">https://tavaresvinicius.github.io/perfil/</a>'
